@@ -1,6 +1,10 @@
 
 all:
+	@true
 
-.PHONY: all update run stop clean
+init:
+	@true
+
+.PHONY: all init
 
 
